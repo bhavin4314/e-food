@@ -1,0 +1,17 @@
+* {
+    font-family: 'Newsreader', serif;
+}
+
+.formpg {
+    background-image: url("image/food2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.signin_form {
+    background-color: rgba(236, 226, 226, 0.548);
+    /* height: 70%; */
+    border: rgb(230, 221, 221) 2px groove;
+}

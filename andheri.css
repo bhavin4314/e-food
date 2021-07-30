@@ -1,0 +1,25 @@
+* {
+    font-family: 'Newsreader', serif;
+}
+
+.checked {
+    color: orange;
+}
+
+.cardpart {
+    background-color: rgb(241, 234, 234);
+}
+
+.cardpart img {
+    height: 16rem;
+
+}
+
+.card {
+    transition: width height 10s;
+}
+
+.card:hover {
+    width: 20rem;
+    height: 23rem;
+}

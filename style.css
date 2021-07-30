@@ -1,0 +1,23 @@
+* {
+    font-family: 'Newsreader', serif;
+}
+
+.carousel-item img {
+    height: 90vh;
+}
+
+.steppart {
+    background-color: rgb(243, 235, 235);
+}
+
+.colhead {
+    background-color: rgb(252, 224, 224);
+}
+
+.colhead1 {
+    background-color: rgb(194, 213, 255);
+}
+
+.colhead2 {
+    background-color: rgb(156, 206, 166);
+}
